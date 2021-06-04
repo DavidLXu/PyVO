@@ -2,7 +2,8 @@
 A Python Visual Odometry, supports RGB-D and Stereo dataset.
 This project was greatly inspired by [14 lectures on visual SLAM](https://github.com/gaoxiang12/slambook) by Gao Xiang, without which this work wouldn't be possible.
 
-3rd-party libraries in use: opencv, numpy, scipy, matplotlib, sophuspy
+3rd-party libraries in use: opencv, numpy, scipy, matplotlib, sophuspy.
+
 To install opencv, numpy, scipy, matplotlib:
 ```
 pip install opencv-python
